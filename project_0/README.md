@@ -1,8 +1,8 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](______)
-[2. Какой кейс решаем](______)
+[1. Описание проекта](https://github.com/Kucheriavii67/sf_data_science/blob/main/project_0/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+[2. Какой кейс решаем](https://github.com/Kucheriavii67/sf_data_science/blob/main/project_0/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 [3. Какая информация о данных](______)
 [4. Этапы работы над проектом](______)
 [5. Результат](_______)
